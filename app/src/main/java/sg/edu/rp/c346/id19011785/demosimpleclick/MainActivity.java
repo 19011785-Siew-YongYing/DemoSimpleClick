@@ -46,7 +46,6 @@ public class MainActivity extends AppCompatActivity {
                 else{
                     etInput.setEnabled(true);
                 }
-
                 /*
                 Another way
                 etInput.setEnabled(tbtn.isChecked());
